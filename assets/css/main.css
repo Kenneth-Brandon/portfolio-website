@@ -2335,3 +2335,39 @@ input, select, textarea {
 			width: 100px;
 			vertical-align: middle;
 		}
+
+		/* fontawesome icons */
+
+		i.fab.fa-js {
+			color: #f7e018;
+		}
+
+		i.fab.fa-html5 {
+			color: #e34c26;
+		}
+
+		i.fab.fa-css3-alt {
+			color: #264de4;
+		}
+
+		i.fab.fa-node {
+			color:#74aa63;
+		}
+
+		i.fab.fa-react {
+			color: #61dafb;
+		}
+
+		i.fab.fa-python {
+			color: #ffd745;
+		}
+
+		.express {
+			width: 108.33px;
+			height: 86px;
+		}
+
+		.mysql {
+			width: 108.33px;
+			height: 86px;
+		}
